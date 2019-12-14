@@ -51,7 +51,7 @@
       "headless": true,
       "http_directory": "http",
       "iso_urls": [
-        "iso/debian-10.2.0-amd64-netinst.iso",
+        "iso/debian-10.2.0-amd64-netinst.iso:",
         "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.2.0-amd64-netinst.iso"
       ],
       "iso_checksum_type": "sha256",
